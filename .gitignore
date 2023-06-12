@@ -155,3 +155,4 @@ cython_debug/
 my-pytorch-image.tar
 .vscode/
 data/
+registry.tar
